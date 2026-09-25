@@ -1,2 +1,3 @@
 # Mon-premier-projet1
-Mon premier projet que Github 
+Bonjour Github 👋
+Je commence aujourd'hui mon parcours de développeur 
